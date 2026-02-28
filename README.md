@@ -128,11 +128,16 @@ These variables showed minimal impact on churn probability.
 
 ---
 
-## Future Improvements
+## Repositories structure
+│
+├── data/
+│   ├── raw/
+│   │   ├── churn.csv
+│
+├── jpynb/
+│   └── CS_Bank_Churn_Analysis.ipynb
+│
+├── README.md 
 
-- Predictive churn modeling (Logistic Regression / XGBoost)
-- Customer Lifetime Value (CLV) analysis
-- A/B retention strategy simulation
-- Dashboard visualization (Power BI / Tableau)
 
 
